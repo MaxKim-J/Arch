@@ -4,7 +4,7 @@
 
 ## 설계 원칙
 
-- [02_의존성 주입](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_dependencyInjection.md)
+- [02_의존성 주입](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/01_designPrinciples/02_dependencyInjection.md)
 
 ## 디자인 패턴
 
