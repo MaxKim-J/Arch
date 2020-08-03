@@ -155,8 +155,10 @@ function(dep1, dep2) {
 - 인스턴스화가 필요한 클래스에 Service 데코레이터를 붙여주고, 필요한 의존성은 클래스 내부에 선언해주면 typedi가 알아서 의존성을 주입합니다.
 - 우리는 직접 의존성의 인스턴스를 생성하지 않아도 됩니다. typedi에게 의존성 정보를 알려주고(constructor에 선언) 필요할 때 요구(Container.get)하면 됩니다.
 - 즉, 우리가 아니라 typedi가 제어권을 갖는 주체로 동작합니다. 이를 제어권의 역전이라고 부릅니다.
+- **new를 통해 새로운 인스턴스 만들어 넣는 수고를 덜어주는 역할**
 
 ## reference
 
 - [김정환 블로그 - 의존성 주입](http://jeonghwan-kim.github.io/js/2017/02/17/dependency-injection.html)
 - [TypeScript와 typedi로 의존성 주입 이해하기](https://medium.com/@HoseungJang/typescript%EC%99%80-typedi%EB%A1%9C-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-5d83ef1977f9)
+- [자바스크립트 패턴과 테스트 - 1.1.3 소프트웨어 공학 원칙을 적용하라](http://www.yes24.com/Product/Goods/33211518)
