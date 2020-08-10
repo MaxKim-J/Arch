@@ -17,6 +17,8 @@
 
 ## 디자인 패턴
 
+- [모듈 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_designPatterns/01_modulePattern.md)
+
 ## 컨벤션
 
 ## 참조 링크
