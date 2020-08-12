@@ -17,7 +17,9 @@
 
 ## 디자인 패턴
 
-- [01_모듈 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_designPatterns/01_modulePattern.md)
+- [01_모듈 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/01_modulePattern.md)
+- [02_함수형 상속](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/02_functionalInheritance.md)
+- [03_싱글톤 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/03_singletonPattern.md)
 
 ## 컨벤션
 
