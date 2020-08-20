@@ -22,7 +22,7 @@
 
 - [01_SOLID + DRY원칙](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/01_designPrinciples/01_solidAndDry.md)
 - [02_의존성 주입](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/01_designPrinciples/02_dependencyInjection.md)
-- [03_관점 지향 프로그래밍(예정)]()
+- [03_관점 지향 프로그래밍](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/01_designPrinciples/03_aspectOrientedProgramming.md)
 
 ## 디자인 패턴
 
