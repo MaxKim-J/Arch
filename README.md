@@ -29,9 +29,10 @@
 - [01_모듈 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/01_modulePattern.md)
 - [02_함수형 상속](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/02_functionalInheritance.md)
 - [03_싱글톤 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/03_singletonPattern.md)
-- [04_콜백 패턴(예정)]()
+- [04_콜백 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/04_callbackPattern.md)
 - [05_프로미스 패턴(예정)]()
 
 ## 리뷰 레퍼런스
 
 - [왜 css에서 !important 사용을 피해야 하는지](https://uxengineer.com/css-specificity-avoid-important-css/)
+- [사파리에서 svg가 깨지는 이유와 대처법](https://jkpark.me/safari/html/css/svg/frontend/2019/06/07/SVG-%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-%ED%9D%90%EB%A6%AC%EA%B2%8C-%EB%B3%B4%EC%9D%B4%EB%8B%A4.html)
