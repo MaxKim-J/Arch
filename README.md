@@ -36,3 +36,4 @@
 
 - [왜 css에서 !important 사용을 피해야 하는지](https://uxengineer.com/css-specificity-avoid-important-css/)
 - [사파리에서 svg가 깨지는 이유와 대처법](https://jkpark.me/safari/html/css/svg/frontend/2019/06/07/SVG-%EC%82%AC%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-%ED%9D%90%EB%A6%AC%EA%B2%8C-%EB%B3%B4%EC%9D%B4%EB%8B%A4.html)
+- [Vue나 React에서 DOM에 직접 접근을 피하는게 좋은 이유](https://www.danvega.dev/blog/2019/04/18/tips-for-vue-developers-avoid-directly-manipulating-the-dom/) : 데이터 바인딩 등 더 좋은 방법이 존재할 가능성이 있음, 관심사의 분리
