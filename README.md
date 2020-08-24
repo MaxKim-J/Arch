@@ -31,6 +31,12 @@
 - [03_싱글톤 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/03_singletonPattern.md)
 - [04_콜백 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/04_callbackPattern.md)
 - [05_프로미스 패턴(예정)]()
+- [06_관찰자 패턴(예정)]()
+- [07_팩토리 패턴(예정)]()
+- [08_전략 패턴(예정)]()
+- [09_장식자(데코레이터) 패턴(예정)]()
+- [10_프록시 패턴(예정)]()
+
 
 ## 리뷰 레퍼런스
 
