@@ -30,7 +30,7 @@
 - [02_함수형 상속](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/02_functionalInheritance.md)
 - [03_싱글톤 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/03_singletonPattern.md)
 - [04_콜백 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/04_callbackPattern.md)
-- [05_프로미스 패턴(예정)]()
+- [05_프로미스 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/05_promisePattern.md)
 - [06_관찰자 패턴(예정)]()
 - [07_팩토리 패턴(예정)]()
 - [08_전략 패턴(예정)]()
