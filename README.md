@@ -35,7 +35,7 @@
 - [07_팩토리 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/07_factoryPattern.md)
 - [08_전략 패턴(예정)]()
 - [09_장식자(데코레이터) 패턴(예정)]()
-- [10_프록시 패턴(예정)]()
+- [10_프록시 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/10_proxyPattern.md)
 
 
 ## 리뷰 레퍼런스

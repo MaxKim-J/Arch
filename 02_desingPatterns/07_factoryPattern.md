@@ -120,3 +120,7 @@ paladin.cast()
 console.log(Paladin.compose.properties) // { name: null, health: 100, stamina: 100, mana: 100 }
 console.log(Paladin.compose.methods) // { fight: [Function: fight], cast: [Function: cast] }
 ```
+
+## reference
+
+- [Node.js 디자인패턴 - 팩토리 패턴](http://www.yes24.com/Product/Goods/65050060)
