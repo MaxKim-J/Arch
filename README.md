@@ -36,8 +36,8 @@
 - [08_전략 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/08_strategyPattern.md)
 - [09_장식자(데코레이터) 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/09_decoratorPattern.md)
 - [10_프록시 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/10_proxyPattern.md)
-- [11_미들웨어 패턴(예정)]()
-- [12_게시﹒구독(pubsub) 패턴(예정)]()
+- [11_미들웨어 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/11_middlewarePattern.md)
+- [12_게시﹒구독(pubsub) 패턴](https://github.com/MaxKim-J/JS-Code-Review-Reference/blob/master/02_desingPatterns/12_pubsubPattern.md)
 
 ## 리뷰 레퍼런스
 
